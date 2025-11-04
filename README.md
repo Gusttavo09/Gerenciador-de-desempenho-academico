@@ -9,7 +9,7 @@ Cadastro, edição e exclusão de alunos
 Gerenciamento de disciplinas
 Sistema de matrículas com notas
 
-2. Sistema de Ranking
+<h1>2. Sistema de Ranking</h1>
 
 Ordenação de alunos por média de notas
 Implementação de 3 algoritmos diferentes:
@@ -21,21 +21,21 @@ HeapSort (O(n log n) garantido)
 
 Comparação de performance em tempo real
 
-3. Busca Eficiente
+<h1>3. Busca Eficiente</h1>
 
 Busca Binária - O(log n)
 Busca Linear - O(n)
 Busca por nome com filtro
 Análise de complexidade de cada método
 
-4. Análise Estatística
+<h1>4. Análise Estatística</h1>
 
 Cálculo de média, mediana, máximo e mínimo
 Desvio padrão das notas
 Visualização em gráficos interativos
 Dashboard com métricas de desempenho
 
-5. Comparação de Algoritmos
+<h1>5. Comparação de Algoritmos</h1>
 
 Benchmark de diferentes métodos de ordenação
 Visualização gráfica dos tempos de execução
